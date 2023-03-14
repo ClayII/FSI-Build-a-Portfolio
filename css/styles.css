@@ -17,3 +17,12 @@
 {
     font-style: italic;
 }
+.projects
+{
+    border: 12px dashed black;
+    font-size: medium
+}
+.aboutme
+{
+    border: 16px solid black
+}
